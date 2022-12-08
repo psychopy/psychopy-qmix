@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "psychopy-qmix"
 version = "0.0.1"
-description = "Software emulator for fMRI machines."
+description = "Extension to add support for Cetoni neMESYS syringe pump systems."
 readme = "README.md"
 requires-python = ">= 3.7"
 license = {text = "GNU General Public License v3 (GPLv3)"}
