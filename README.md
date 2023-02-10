@@ -1,6 +1,6 @@
 # psychopy-qmix
 
-Simple interface to the Cetoni neMESYS syringe pump system, based on the `pyqmix <https://github.com/psyfood/pyqmix/>`_ 
+Simple interface to the Cetoni neMESYS syringe pump system, based on the [pyqmix](https://github.com/psyfood/pyqmix/)
 library.
 
 ## Supported Devices
